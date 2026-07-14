@@ -24,7 +24,7 @@ jobs:
 
     #Download the bundle to the prod  target as defined in the bundle's settings file
     - run: databricks bundle deploy
-    working-directory: bakehouse_analytics
+      working-directory: bakehouse_analytics
     env:
       DATABRICKS_TOKEN: ${{ secrets.SP_TOKEN}}
       DATABRICKS_BUNDLE_ENV: prod
