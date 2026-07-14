@@ -17,7 +17,7 @@ To deploy and manage this bundle, follow these steps:
 ### 3. Managing Resources
 
 - Use the **Add** dropdown to add resources to the bundle.
-- Click **Schedule** on a notebook within the bundle to create a **job definition** that schedules the notebook.
+- Click **Schedule** on a notebook within the bundle to create a **job definition** that schedules the notebook
 
 ## Documentation
 
